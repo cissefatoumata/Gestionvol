@@ -8,9 +8,9 @@
   .uper {
     margin-top: 40px;
   }
-  .cisse{
+  /* .cisse{
     background-image: url(images/vol1);
-  }
+  } */
   
 </style>
 
